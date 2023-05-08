@@ -1,0 +1,30 @@
+#countdown {
+    color: #0d6efd;
+    padding: 10px;
+}
+
+
+
+#cards {
+    display: none;
+}
+
+#loader {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+    
+    
+
+
+.list-group-item {
+    background: transparent;
+}
+
+img {
+    max-width: 100%;
+}
